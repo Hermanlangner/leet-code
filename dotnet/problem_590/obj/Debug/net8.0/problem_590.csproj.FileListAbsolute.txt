@@ -1,0 +1,5 @@
+/Users/hermanlangner/Projects/leet-code/dotnet/problem_590/obj/Debug/net8.0/problem_590.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hermanlangner/Projects/leet-code/dotnet/problem_590/obj/Debug/net8.0/problem_590.AssemblyInfoInputs.cache
+/Users/hermanlangner/Projects/leet-code/dotnet/problem_590/obj/Debug/net8.0/problem_590.AssemblyInfo.cs
+/Users/hermanlangner/Projects/leet-code/dotnet/problem_590/obj/Debug/net8.0/problem_590.csproj.CoreCompileInputs.cache
+/Users/hermanlangner/Projects/leet-code/dotnet/problem_590/obj/Debug/net8.0/problem_590.sourcelink.json
